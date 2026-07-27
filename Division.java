@@ -33,6 +33,7 @@ class Division {
             }
         } catch (Exception e) {
             System.out.println("i/o error");
+            
         }
     }
 }

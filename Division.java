@@ -1,7 +1,7 @@
 import java.io.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+// use of break statement
 class Division {
     public static void main(String[] args) {
         String choice = new String();

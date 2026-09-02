@@ -1,5 +1,5 @@
 class Student {
-    private int age;   // private data
+    private int age; // private data
 
     // Setter method
     public void setAge(int age) {
@@ -12,7 +12,7 @@ class Student {
     }
 }
 
-public class Main4  {
+public class main4 {
     public static void main(String[] args) {
         Student s = new Student();
 

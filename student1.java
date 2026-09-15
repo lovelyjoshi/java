@@ -29,6 +29,7 @@ public class student1 {
     }
 }
 
+
 class student {
     public static void main(String[] args) {
         student1 obj = new student1();

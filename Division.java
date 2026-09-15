@@ -1,6 +1,6 @@
-import java.io.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+
 // use of break statement
 class Division {
     public static void main(String[] args) {
@@ -33,7 +33,7 @@ class Division {
             }
         } catch (Exception e) {
             System.out.println("i/o error");
-            
+
         }
     }
 }
